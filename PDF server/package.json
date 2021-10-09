@@ -1,0 +1,16 @@
+{
+  "name": "pdfserver",
+  "version": "1.0.0",
+  "description": "A simple server to generate a PDF file",
+  "main": "pdfserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harrison Kong",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jspdf": "^2.3.1",
+    "nodemon": "^2.0.7"
+  }
+}

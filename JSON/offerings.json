@@ -1,0 +1,35 @@
+{
+    "items" : [
+        {
+            "name" : "Vegetables Stir Fry",
+            "price" : 9.99,
+            "isVegetarian" : true,
+            "spicinessScale" : 2,
+            "ingredients" : [ "bamboo shoots", "pea pods", "mushrooms", "carrots", "broccoli" ]
+        },
+
+        {
+            "name" : "Coffee Crusted Atlantic Salmon",
+            "price" : 18.99,
+            "isVegetarian" : false,
+            "spicinessScale" : 0,
+            "ingredients" : [ "coffee beans", "salmon", "maple syrup"]
+        },
+
+        {
+            "name" : "Avocado Omlette",
+            "price" : 7.99,
+            "isVegetarian" : true,
+            "spicinessScale" : 0,
+            "ingredients" : [ "eggs", "butter", "avocados" ]
+        },
+
+        {
+            "name" : "Spicy Tofu Burrito",
+            "price" : 12.99,
+            "isVegetarian" : true,
+            "spicinessScale" : 4,
+            "ingredients" : [ "flour tortillas", "tofu", "rice", "soy cheese", "chili peppers"]
+        }
+    ]
+}
